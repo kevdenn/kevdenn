@@ -5,7 +5,7 @@
 **Data & AI Engineer | Mumbai, India 🇮🇳**
 
 [![Website](https://img.shields.io/badge/Website-plainsightdata.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://plainsightdata.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevdenn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-nd-1b2b75105)
 [![Email](https://img.shields.io/badge/Email-hello@plainsightdata.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@plainsightdata.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://plainsightdata.com/resume)
 
