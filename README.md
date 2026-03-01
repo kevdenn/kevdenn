@@ -233,7 +233,7 @@ I'm currently open to:
 
 📧 **Email:** [hello@plainsightdata.com](mailto:hello@plainsightdata.com)
 🌐 **Website:** [plainsightdata.com](https://plainsightdata.com)
-💼 **LinkedIn:** [linkedin.com/in/kevdenn](https://linkedin.com/in/kevdenn)
+💼 **LinkedIn:** [linkedin.com/in/kevin-nd-1b2b75105](https://www.linkedin.com/in/kevin-nd-1b2b75105/)
 
 ---
 
