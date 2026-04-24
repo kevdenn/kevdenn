@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kevin ND (@kevdenn)
 
-**Data & AI Engineer | Mumbai, India 🇮🇳**
+**Data & AI Consultant | Mumbai, India 🇮🇳**
 
 [![Website](https://img.shields.io/badge/Website-plainsightdata.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://plainsightdata.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-nd-1b2b75105)
